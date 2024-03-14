@@ -67,6 +67,13 @@ section {
 .room img {
     width: 100%;
     max-width: 400px;
+
+    margin-top:10px;
+    margin-bottom:10px
+}
+.room1 img {
+    width: 100%;
+    max-width: 400px;
     display: block;
     margin: 0 auto 10px;
 }
