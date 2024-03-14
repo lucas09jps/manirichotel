@@ -11,7 +11,12 @@ body {
     background-color: #000;
     color: #fff;
 }
-
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
 /* Header styles */
 header {
     text-align: center;
