@@ -7,8 +7,8 @@
 
 /* Body styles */
 body {
-	background: linear-gradient(-45deg, #07dbf2, #303df2, #23a6d5, #63ffb9);
-	background-size: 400% 400%;
+	background: linear-gradient(-45deg, #2856ed, #52b0ee, #0ef0dd, #23d5ab);
+	background-size: 450% 450%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
 }
