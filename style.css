@@ -91,7 +91,7 @@ section {
 
 .slides {
     padding: 0;
-    width: 1000px;
+    width: 609px;
     height: 420px;
     display: block;
     margin-left: auto;
@@ -115,12 +115,12 @@ section {
 .slide {
     top: 0;
     opacity: 0;
-    width: 1000px;
+    width: 609px;
     height: 420px;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    
+    position: absolute;
 
     transform: scale(0);
 
