@@ -8,9 +8,9 @@
 /* Body styles */
 body {
 	background: linear-gradient(-45deg, #2856ed, #52b0ee, #0ef0dd, #23d5ab);
-	background-size: 600% 600%;
+	background-size: 1000% 1000%;
 	animation: gradient 7s ease infinite;
-	height: 200vh;
+	height: 1vh;
 	margin: 0;
 }
 
@@ -91,7 +91,7 @@ section {
 
 .slides {
     padding: 0;
-    width: 609px;
+    width: 1000px;
     height: 420px;
     display: block;
     margin: 0 auto;
