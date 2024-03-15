@@ -91,7 +91,7 @@ section {
 
 .slides {
     padding: 0;
-    width: 609px;
+    width: 1000px;
     height: 420px;
     display: block;
     margin-left: auto;
@@ -120,7 +120,7 @@ section {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    position: absolute;
+    
 
     transform: scale(0);
 
