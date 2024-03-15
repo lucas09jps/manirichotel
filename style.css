@@ -94,8 +94,6 @@ section {
     width: 609px;
     height: 420px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     position: relative;
 }
 
@@ -117,8 +115,7 @@ section {
     opacity: 0;
     width: 609px;
     height: 420px;
-    margin-left: auto;
-    margin-right: auto;
+    
     display: block;
     position: absolute;
 
