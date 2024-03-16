@@ -8,7 +8,7 @@
 /* Body styles */
 body {
 	background: linear-gradient(-45deg, #2856ed, #52b0ee, #0ef0dd, #23d5ab);
-	background-size: 700% 700%;
+	background-size: 100% 100%;
 	animation: gradient 7s ease infinite;
 	height: 1vh;
 	margin: 0;
