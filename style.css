@@ -89,13 +89,14 @@ section {
 }
 
 
+
 .slides {
     padding: 0;
     width: 609px;
     height: 420px;
     display: block;
-    position: relative;
     margin: 0 auto;
+    position: relative;
 }
 
 .slides * {
@@ -116,7 +117,6 @@ section {
     opacity: 0;
     width: 609px;
     height: 420px;
-    
     display: block;
     position: absolute;
 
@@ -131,7 +131,7 @@ section {
 }
 
 .nav label {
-    width: 609px;
+    width: 200px;
     height: 100%;
     display: none;
     position: absolute;
