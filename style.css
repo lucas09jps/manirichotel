@@ -92,7 +92,7 @@ section {
 
 .slides {
     padding: 0;
-    width: 609px;
+    width: 750px;
     height: 420px;
     display: block;
     margin: 0 auto;
@@ -120,7 +120,7 @@ section {
 .slide {
     top: 0;
     opacity: 0;
-    width: 609px;
+    width: 750px;
     height: 420px;
     display: block;
     position: absolute;
