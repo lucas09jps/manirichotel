@@ -177,7 +177,7 @@ button {
 	}
 	.btn-5:hover {
 	  color: #05ff9b;
-	  background: black;
+	  background: transparent;
 	  box-shadow:none;
 	}
 	.btn-5:before,
@@ -186,7 +186,7 @@ button {
 	  position:absolute;
 	  top:0;
 	  right:0;
-	  height:15px;
+	  height:12px;
 	  width:0;
 	  background:#05ff9b;
 	  box-shadow:
