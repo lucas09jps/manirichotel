@@ -224,6 +224,9 @@ More Information {
   padding: 15px 75px;
   background: transparent;
   color: #FFB300;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: 1px solid #FFB300;
   z-index: 1;
   overflow: hidden;
@@ -237,6 +240,9 @@ More Information {
   content: "";
   height: 100%;
   width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   top: 0;
   left: -230px;
   position: absolute;
