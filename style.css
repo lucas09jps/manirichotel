@@ -37,7 +37,10 @@ header {
     text-align: center;
     padding: 50px 0;
 }
-
+.nav-container {
+  height: 100vh; /* or any other height */
+  overflow: auto;
+}
 /* Navigation styles */
 nav {
     background-color: #333;
