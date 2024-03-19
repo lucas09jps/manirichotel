@@ -154,7 +154,7 @@ button {
   padding: 10px 25px;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
-  font-size: 30px
+  font-size: 100px;
   background: transparent;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -167,7 +167,7 @@ button {
   }
 
 	.btn-5 {
-	  width: 400px;
+	  width: 500px;
 	  height: 200px;
 	  line-height: 20px;
 	  padding: 0;
