@@ -60,7 +60,11 @@ nav ul li a {
     color: #059bf2;
     text-decoration: none;
 }
-
+.menu {
+	position: -webkit-sticky; /* Safari */
+ 	 position: sticky;
+  	top: 0;
+}
 /* Main styles */
 main {
     padding: 50px;
