@@ -262,6 +262,9 @@ More Information {
   letter-spacing: 1.5px;
   text-transform: uppercase;
   border-radius: 12px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   color: #fff;
   position: relative;
   cursor: pointer;
