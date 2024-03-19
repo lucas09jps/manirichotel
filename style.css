@@ -47,6 +47,7 @@ nav {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 
 nav ul {
@@ -67,8 +68,8 @@ nav ul li a {
 				
 }
 .menu {
-			position: -webkit-sticky; /* Safari */
- 	 position: sticky;
+	position: -webkit-sticky; /* Safari */
+ 	position: sticky;
   	top: 0;
 }
 /* Main styles */
@@ -232,6 +233,9 @@ More Information {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	position: -webkit-sticky; /* Safari */
+ 	position: sticky;
+  	top: 0;
 	}
 .btn-fill {
   padding: 15px 75px;
@@ -240,6 +244,9 @@ More Information {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
   border: 1px solid #0299f7;
   z-index: 1;
   overflow: hidden;
@@ -278,6 +285,9 @@ More Information {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
   color: #fff;
   position: relative;
   cursor: pointer;
