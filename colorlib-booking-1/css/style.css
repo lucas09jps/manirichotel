@@ -147,8 +147,8 @@ button {
   margin: 20px;
 }
 .custom-btn {
-  width: 130px;
-  height: 40px;
+  width: 400px;
+  height: 300px;
   color: #fff;
   border-radius: 5px;
   padding: 10px 25px;
@@ -166,8 +166,8 @@ button {
   }
 
 	.btn-5 {
-	  width: 130px;
-	  height: 40px;
+	  width: 400px;
+	  height: 300px;
 	  line-height: 42px;
 	  padding: 0;
 	  border: none;
@@ -175,9 +175,9 @@ button {
 	background: linear-gradient(0deg, rgba(255,27,0,1) 0%, rgba(251,75,2,1) 100%);
 	}
 	.btn-5:hover {
-	  color: #f0094a;
-	  background: transparent;
-	   box-shadow:none;
+	  color: #05ff9b;
+	  background: black;
+	  box-shadow:none;
 	}
 	.btn-5:before,
 	.btn-5:after{
