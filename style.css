@@ -41,6 +41,9 @@ header {
 /* Navigation styles */
 nav {
     background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
