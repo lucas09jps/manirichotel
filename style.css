@@ -1,3 +1,4 @@
+
 /* Reset CSS */
 * {
     margin: 0;
@@ -37,9 +38,7 @@ header {
     text-align: center;
     padding: 50px 0;
 }
-.nav-container {
-  height: 100vh; /* or any other height */
-  overflow: auto;
+
 }
 /* Navigation styles */
 nav {
@@ -47,40 +46,29 @@ nav {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
-    z-index: 1000;
-
 }
 
 nav ul {
     list-style-type: none;
     text-align: center;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    z-index: 1000;
 				
 }
 
 nav ul li {
     display: inline;
-    margin: 0 10px
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    z-index: 1000;
+    margin: 0 10px;
 				
 }
 
 nav ul li a {
     color: #059bf2;
     text-decoration: none;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    z-index: 1000;
 				
 }
-
+.menu {
+	position: -webkit-sticky; /* Safari */
+ 	 position: sticky;
+  	top: 0;
 }
 /* Main styles */
 main {
@@ -243,10 +231,6 @@ More Information {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	position: -webkit-sticky; /* Safari */
-    	position: sticky;
-    	top: 0;
-    	z-index: 1000;
 	}
 .btn-fill {
   padding: 15px 75px;
@@ -255,10 +239,6 @@ More Information {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  z-index: 1000;
-  top: 0;
   border: 1px solid #0299f7;
   z-index: 1;
   overflow: hidden;
@@ -297,10 +277,6 @@ More Information {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  z-index: 1000;
-  top: 0;
   color: #fff;
   position: relative;
   cursor: pointer;
