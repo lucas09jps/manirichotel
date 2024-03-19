@@ -223,11 +223,11 @@ More Information {
 .btn-fill {
   padding: 15px 75px;
   background: transparent;
-  color: #FFB300;
+  color: #0299f7;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #FFB300;
+  border: 1px solid #0299f7;
   z-index: 1;
   overflow: hidden;
 }
@@ -236,7 +236,7 @@ More Information {
   transition: all 0.2s;
 }
 .btn-fill::after {
-  background: #FFB300;
+  background: #0299f7;
   content: "";
   height: 100%;
   width: 100%;
