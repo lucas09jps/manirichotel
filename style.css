@@ -39,7 +39,6 @@ header {
     padding: 50px 0;
 }
 
-}
 /* Navigation styles */
 nav {
     background-color: #333;
@@ -51,19 +50,16 @@ nav {
 nav ul {
     list-style-type: none;
     text-align: center;
-				
 }
 
 nav ul li {
     display: inline;
     margin: 0 10px;
-				
 }
 
 nav ul li a {
     color: #059bf2;
     text-decoration: none;
-				
 }
 .menu {
 	position: -webkit-sticky; /* Safari */
