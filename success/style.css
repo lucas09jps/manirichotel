@@ -23,7 +23,7 @@ body {
   height: 100vh;
   border: 8px solid white;
   border-radius: 30px;
-  background-image: url('https://images.pexels.com/photos/10834393/pexels-photo-10834393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+   background-image: URL("background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -50,12 +50,12 @@ body {
     
     &:before {
       top: -30px;
-      background-image: url('data:image/svg+xml,<svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 22C12.1503 22 22 12.1503 22 0V22H0Z" fill="white"/></svg>');
+      background-image: URL("background.jpg");
     }
     
     &:after {
       bottom: -30px;
-      background-image: url('data:image/svg+xml,<svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 22C22 9.84973 12.1503 -5.31105e-07 -9.61651e-07 0L22 -9.61651e-07L22 22Z" fill="white"/></svg>');
+       background-image: URL("background.jpg");
     }
   }
   
