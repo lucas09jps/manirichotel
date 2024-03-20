@@ -239,7 +239,7 @@ More Information {
 	}
 .btn-fill {
   padding: 15px 75px;
-  background: transparent;
+  background: rgba(0,161,249,0.32);
   color: #0299f7;
   position: fixed;
   bottom: 10px;
