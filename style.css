@@ -37,6 +37,7 @@ body {
 header {
     text-align: center;
     padding: 50px 0;
+    font-family: "Poppins", sans-serif;
 }
 
 /* Navigation styles */
@@ -45,21 +46,25 @@ nav {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
+    font-family: "Poppins", sans-serif;
 }
 
 nav ul {
     list-style-type: none;
     text-align: center;
+    font-family: "Poppins", sans-serif;
 }
 
 nav ul li {
     display: inline;
     margin: 0 10px;
+    font-family: "Poppins", sans-serif;
 }
 
 nav ul li a {
     color: #059bf2;
     text-decoration: none;
+    font-family: "Poppins", sans-serif;
 }
 .menu {
 	position: -webkit-sticky; /* Safari */
@@ -80,6 +85,7 @@ section {
 /* Room styles */
 .room {
     margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
 }
 
 .room img {
@@ -216,11 +222,13 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 
 contact {
     margin-top: 30px;
+    font-family: "Poppins", sans-serif;
 }
 
 /* Footer styles */
 More Information {
     margin-top: 30px;
+    font-family: "Poppins", sans-serif;
 }
 
 .container__btn {
@@ -234,8 +242,8 @@ More Information {
   background: transparent;
   color: #0299f7;
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 10px;
+  right: 5px;
   border: 1px solid #0299f7;
   z-index: 1;
   overflow: hidden;
@@ -272,8 +280,8 @@ More Information {
   text-transform: uppercase;
   border-radius: 12px;
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 10px;
+  right: 5px;
   color: #fff;
   position: relative;
   cursor: pointer;
