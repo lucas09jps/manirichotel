@@ -224,17 +224,18 @@ More Information {
 }
 
 .container__btn {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	
+	position: fixed;
+ 	 bottom: 0;
+  	right: 0;
 	}
 .btn-fill {
   padding: 15px 75px;
   background: transparent;
   color: #0299f7;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  position: fixed;
+  bottom: 0;
+  right: 0;
   border: 1px solid #0299f7;
   z-index: 1;
   overflow: hidden;
@@ -270,9 +271,9 @@ More Information {
   letter-spacing: 1.5px;
   text-transform: uppercase;
   border-radius: 12px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  position: fixed;
+  bottom: 0;
+  right: 0;
   color: #fff;
   position: relative;
   cursor: pointer;
