@@ -84,22 +84,28 @@ section {
 
 /* Room styles */
 .room {
-    margin-bottom: 30px;
+    
     font-family: "Poppins", sans-serif;
 }
 
 .room img {
+    border-radius: 15px;
     width: 100%;
     max-width: 400px;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top:10px;
-    margin-bottom:10px
+    margin-bottom:10px;
 }
 .room1 img {
     width: 100%;
     max-width: 400px;
     display: block;
-    margin: 0 auto 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
 
