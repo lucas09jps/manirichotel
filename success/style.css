@@ -23,7 +23,7 @@ body {
   height: 100vh;
   border: 8px solid white;
   border-radius: 30px;
-   background-image: URL("background.jpg");
+   background-image: URL("Background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   
