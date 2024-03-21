@@ -91,7 +91,8 @@ section {
 .room img {
     border-radius: 15px;
     width: 100%;
-    max-width: 400px;
+    height: 200px;
+    width: 750px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -99,8 +100,11 @@ section {
     margin-bottom:10px;
 }
 .room1 img {
+    border-radius: 15px;
     width: 100%;
-    max-width: 400px;
+    height: 200px;
+    width: 750px;
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
