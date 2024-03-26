@@ -111,8 +111,20 @@ section {
     margin-top:10px;
     margin-bottom:10px;
 }
+ 
 
+.experiences{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:#0d1fe4dc;
+    font-size: 20px;
+    background-color: #059bf282;
+    border-radius: 25px;
+    
 
+}
 
 .slides {
     padding: 0;
