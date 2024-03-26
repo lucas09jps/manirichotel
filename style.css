@@ -113,46 +113,9 @@ section {
 }
  
 
-.experiences{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    color:#0d1fe4dc;
-    font-size: 50px;
-    background-color: #059bf282;
-    border-radius: 25px;
-    
 
-}
-
-.marquee {
-    margin: 0 auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
-    
-  }
   
-  .marquee span {
-    display: inline-block;
-    padding-left: 100%;
-    animation: marquee 30s linear infinite;
-  }
-  
-  
-  
-  @keyframes marquee {
-    0% {
-      transform: translate(0, 0);
-    }
-    100% {
-      transform: translate(-100%, 0);
-    }
-  }
+ 
 .slides {
     padding: 0;
     width: 750px;
