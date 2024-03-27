@@ -113,6 +113,19 @@ section {
 }
  
 
+.experiences{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:#0d1fe4dc;
+    font-size: 50px;
+    background-color: #059bf282;
+    border-radius: 25px;
+    
+
+}
+
 
   
  
@@ -185,10 +198,10 @@ section {
 .slide .text {
   position: absolute;
   bottom: 10px;
-  right: 70px;
+  right: 10px;
   color: #fff;
   background-color: #26323862;
-  border-radius: 12px;
+  border-radius: 6px;
   font-size: 30px;
 }
 
